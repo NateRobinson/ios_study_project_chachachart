@@ -37,3 +37,8 @@
         return cell
         }
        ``` 
+4. swift 版本问题设置
+
+SWIFT_VERSION '5.0' is unsupported, supported versions are: 3.0, 4.0, 4.2. (in target 'SwiftyJSON')
+
+[stackoverflow 解答](https://stackoverflow.com/questions/55585062/xcode-keeps-showing-1-swift-version-5-0-is-unsupported-supported-versions-a)
